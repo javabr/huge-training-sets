@@ -1,10 +1,11 @@
 [
+
   {
     "_id": "65e51bce28d88d73d1e57053",
     "index": 0,
     "guid": "76728474-7444-46fd-a898-df4bfca925a3",
     "isActive": false,
-    "balance": "$1,294.12",
+    "balance": "1,294.12",
     "picture": "http://placehold.it/32x32",
     "age": 22,
     "eyeColor": "green",
@@ -28,14 +29,17 @@
       "elit"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Evangelina Roth"
       },
+
       {
         "id": 1,
         "name": "Margarita Tyler"
       },
+
       {
         "id": 2,
         "name": "Ginger Owens"
@@ -44,12 +48,13 @@
     "greeting": "Hello, Maldonado Lynch! You have 5 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce87741bde83fd76bc",
     "index": 1,
     "guid": "e9f6aef7-1246-4a12-9e99-f170e7ed949e",
     "isActive": false,
-    "balance": "$2,518.97",
+    "balance": "2,518.97",
     "picture": "http://placehold.it/32x32",
     "age": 25,
     "eyeColor": "blue",
@@ -73,14 +78,17 @@
       "qui"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Conway Anderson"
       },
+
       {
         "id": 1,
         "name": "Hutchinson Mccray"
       },
+
       {
         "id": 2,
         "name": "Tracie Best"
@@ -89,12 +97,13 @@
     "greeting": "Hello, Deena Buckley! You have 2 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce48043b32fd3813cc",
     "index": 2,
     "guid": "a1315800-befa-4bab-8342-388f2acafc43",
     "isActive": false,
-    "balance": "$3,497.29",
+    "balance": "3,497.29",
     "picture": "http://placehold.it/32x32",
     "age": 35,
     "eyeColor": "brown",
@@ -118,14 +127,17 @@
       "velit"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Velasquez Hogan"
       },
+
       {
         "id": 1,
         "name": "Mcneil Mcmillan"
       },
+
       {
         "id": 2,
         "name": "Jolene Edwards"
@@ -134,12 +146,13 @@
     "greeting": "Hello, Josefina Solomon! You have 6 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bcedce548d42b9faec0",
     "index": 3,
     "guid": "306ab75d-ca31-43de-8859-f518214802be",
     "isActive": true,
-    "balance": "$2,093.85",
+    "balance": "2,093.85",
     "picture": "http://placehold.it/32x32",
     "age": 28,
     "eyeColor": "blue",
@@ -163,14 +176,17 @@
       "cillum"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Serrano Carpenter"
       },
+
       {
         "id": 1,
         "name": "Cathryn Gilbert"
       },
+
       {
         "id": 2,
         "name": "Georgia Sampson"
@@ -179,12 +195,13 @@
     "greeting": "Hello, Bonita Donovan! You have 2 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bced9055ecb2ce6bbb5",
     "index": 4,
     "guid": "893dab2b-7759-4dd4-82b2-5695352342ac",
     "isActive": true,
-    "balance": "$3,635.97",
+    "balance": "3,635.97",
     "picture": "http://placehold.it/32x32",
     "age": 36,
     "eyeColor": "green",
@@ -208,14 +225,17 @@
       "magna"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Villarreal Grant"
       },
+
       {
         "id": 1,
         "name": "Sylvia Chen"
       },
+
       {
         "id": 2,
         "name": "Robin Mcneil"
@@ -224,12 +244,13 @@
     "greeting": "Hello, Mcgee Bates! You have 1 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce50e2ecb370fa354b",
     "index": 5,
     "guid": "f144d11b-7a42-4879-ab4e-49dc6b023a0b",
     "isActive": true,
-    "balance": "$3,815.11",
+    "balance": "3,815.11",
     "picture": "http://placehold.it/32x32",
     "age": 28,
     "eyeColor": "blue",
@@ -253,14 +274,17 @@
       "excepteur"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Mae Sheppard"
       },
+
       {
         "id": 1,
         "name": "Melinda Mcdaniel"
       },
+
       {
         "id": 2,
         "name": "Cleo Summers"
@@ -269,12 +293,13 @@
     "greeting": "Hello, Ramona Dixon! You have 1 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bce31686b3ae771a700",
     "index": 6,
     "guid": "0a040467-963b-41ce-b31c-97887c8518ef",
     "isActive": false,
-    "balance": "$2,916.83",
+    "balance": "2,916.83",
     "picture": "http://placehold.it/32x32",
     "age": 40,
     "eyeColor": "brown",
@@ -298,14 +323,17 @@
       "excepteur"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Kristen Mcleod"
       },
+
       {
         "id": 1,
         "name": "Bentley Gillespie"
       },
+
       {
         "id": 2,
         "name": "Lynne Shannon"
@@ -314,12 +342,13 @@
     "greeting": "Hello, Webb Ball! You have 1 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce13345634cf3a84a1",
     "index": 7,
     "guid": "7b8af1d8-82ba-4541-a31e-215701daca4b",
     "isActive": false,
-    "balance": "$2,762.66",
+    "balance": "2,762.66",
     "picture": "http://placehold.it/32x32",
     "age": 21,
     "eyeColor": "brown",
@@ -343,14 +372,17 @@
       "et"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Wise Garrett"
       },
+
       {
         "id": 1,
         "name": "Walsh Russell"
       },
+
       {
         "id": 2,
         "name": "Kate Park"
@@ -359,12 +391,13 @@
     "greeting": "Hello, Barnes Huber! You have 9 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce737b214fe91dbd3a",
     "index": 8,
     "guid": "648c25e2-3722-4dfd-960a-64ad6138a860",
     "isActive": true,
-    "balance": "$1,503.16",
+    "balance": "1,503.16",
     "picture": "http://placehold.it/32x32",
     "age": 38,
     "eyeColor": "green",
@@ -388,14 +421,17 @@
       "amet"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Vang Alford"
       },
+
       {
         "id": 1,
         "name": "Catherine Mckenzie"
       },
+
       {
         "id": 2,
         "name": "Shepherd Payne"
@@ -404,12 +440,13 @@
     "greeting": "Hello, Morgan Chase! You have 3 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce01227d0786c159a2",
     "index": 9,
     "guid": "6346068b-9a3a-4a2b-be36-81343cbc6b7c",
     "isActive": false,
-    "balance": "$2,888.13",
+    "balance": "2,888.13",
     "picture": "http://placehold.it/32x32",
     "age": 29,
     "eyeColor": "green",
@@ -433,14 +470,17 @@
       "incididunt"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Flowers Aguilar"
       },
+
       {
         "id": 1,
         "name": "Gilmore Hines"
       },
+
       {
         "id": 2,
         "name": "Elvira Nunez"
@@ -449,12 +489,13 @@
     "greeting": "Hello, Skinner Mcintosh! You have 7 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce73329f58ee1bb443",
     "index": 10,
     "guid": "cc447369-1b45-4229-886d-b932f23aea85",
     "isActive": false,
-    "balance": "$1,369.53",
+    "balance": "1,369.53",
     "picture": "http://placehold.it/32x32",
     "age": 34,
     "eyeColor": "green",
@@ -478,14 +519,17 @@
       "incididunt"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Terrell Olsen"
       },
+
       {
         "id": 1,
         "name": "Mindy Finch"
       },
+
       {
         "id": 2,
         "name": "Fleming Rios"
@@ -494,12 +538,13 @@
     "greeting": "Hello, Fuentes Wade! You have 7 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bcea219237ca852fec3",
     "index": 11,
     "guid": "785a0a5c-d23a-4ac7-ae80-8935f426e8c6",
     "isActive": true,
-    "balance": "$3,596.16",
+    "balance": "3,596.16",
     "picture": "http://placehold.it/32x32",
     "age": 38,
     "eyeColor": "green",
@@ -523,14 +568,17 @@
       "aute"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Rivers Spence"
       },
+
       {
         "id": 1,
         "name": "Tommie Alvarado"
       },
+
       {
         "id": 2,
         "name": "Carolina Knox"
@@ -539,12 +587,13 @@
     "greeting": "Hello, Dickerson Bird! You have 7 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bcedfa6d5ea763152a1",
     "index": 12,
     "guid": "b50ec247-8227-4dcd-afbe-d6148410245e",
     "isActive": false,
-    "balance": "$2,005.19",
+    "balance": "2,005.19",
     "picture": "http://placehold.it/32x32",
     "age": 31,
     "eyeColor": "blue",
@@ -568,14 +617,17 @@
       "ipsum"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Salinas Andrews"
       },
+
       {
         "id": 1,
         "name": "Conley Burris"
       },
+
       {
         "id": 2,
         "name": "Cornelia Carney"
@@ -584,12 +636,13 @@
     "greeting": "Hello, England Cross! You have 8 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bcedb07bcdd81ea1768",
     "index": 13,
     "guid": "12842317-b6f0-4f65-9e8b-568c2271e6bc",
     "isActive": false,
-    "balance": "$3,109.21",
+    "balance": "3,109.21",
     "picture": "http://placehold.it/32x32",
     "age": 30,
     "eyeColor": "brown",
@@ -613,14 +666,17 @@
       "nulla"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Cannon Morales"
       },
+
       {
         "id": 1,
         "name": "Kayla Sharp"
       },
+
       {
         "id": 2,
         "name": "Eva Morin"
@@ -629,12 +685,13 @@
     "greeting": "Hello, Collier Bright! You have 7 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bcef22f4c111b8c16ee",
     "index": 14,
     "guid": "70e7c9a6-59d3-480e-a04c-4a881c5f02c3",
     "isActive": false,
-    "balance": "$1,503.55",
+    "balance": "1,503.55",
     "picture": "http://placehold.it/32x32",
     "age": 30,
     "eyeColor": "blue",
@@ -658,14 +715,17 @@
       "nisi"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Sonja Ortiz"
       },
+
       {
         "id": 1,
         "name": "Candice Rosales"
       },
+
       {
         "id": 2,
         "name": "Carrillo Douglas"
@@ -674,12 +734,13 @@
     "greeting": "Hello, Yesenia Buck! You have 6 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce82788c97110f2bff",
     "index": 15,
     "guid": "9890dd43-9248-4922-affb-9e5b31096ce0",
     "isActive": true,
-    "balance": "$1,347.73",
+    "balance": "1,347.73",
     "picture": "http://placehold.it/32x32",
     "age": 34,
     "eyeColor": "green",
@@ -703,14 +764,17 @@
       "in"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "May Cunningham"
       },
+
       {
         "id": 1,
         "name": "Sears Armstrong"
       },
+
       {
         "id": 2,
         "name": "Karyn Bell"
@@ -719,12 +783,13 @@
     "greeting": "Hello, Virginia Barrera! You have 8 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bcec9b08354ebcc8b7e",
     "index": 16,
     "guid": "2fa1efd5-2a62-417f-b8bb-da0f9d94c5bb",
     "isActive": true,
-    "balance": "$2,542.40",
+    "balance": "2,542.40",
     "picture": "http://placehold.it/32x32",
     "age": 29,
     "eyeColor": "blue",
@@ -748,14 +813,17 @@
       "aliquip"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Jill Moreno"
       },
+
       {
         "id": 1,
         "name": "Shelia Bernard"
       },
+
       {
         "id": 2,
         "name": "Lidia Schwartz"
@@ -764,12 +832,13 @@
     "greeting": "Hello, Simmons Mccarthy! You have 4 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce10379f4e64517a1e",
     "index": 17,
     "guid": "a717af97-76f2-4d5b-b72c-c0706c865a72",
     "isActive": false,
-    "balance": "$2,502.40",
+    "balance": "2,502.40",
     "picture": "http://placehold.it/32x32",
     "age": 22,
     "eyeColor": "green",
@@ -793,14 +862,17 @@
       "eiusmod"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Miles Rosa"
       },
+
       {
         "id": 1,
         "name": "Meagan Gordon"
       },
+
       {
         "id": 2,
         "name": "Campbell Grimes"
@@ -809,12 +881,13 @@
     "greeting": "Hello, Imelda Rowland! You have 2 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bceaa5e9d39672db0c0",
     "index": 18,
     "guid": "e1867cd4-7477-4eff-8e0b-40cfcdb6c412",
     "isActive": false,
-    "balance": "$1,935.28",
+    "balance": "1,935.28",
     "picture": "http://placehold.it/32x32",
     "age": 39,
     "eyeColor": "green",
@@ -838,14 +911,17 @@
       "ut"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Bernadette Pittman"
       },
+
       {
         "id": 1,
         "name": "Letha Charles"
       },
+
       {
         "id": 2,
         "name": "Adams Mcclain"
@@ -854,12 +930,13 @@
     "greeting": "Hello, Barbara Decker! You have 6 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bced7aed9469b01fd7a",
     "index": 19,
     "guid": "335e154c-25d1-49f1-934a-e0242618c654",
     "isActive": false,
-    "balance": "$3,553.04",
+    "balance": "3,553.04",
     "picture": "http://placehold.it/32x32",
     "age": 35,
     "eyeColor": "green",
@@ -883,14 +960,17 @@
       "velit"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Chan Lamb"
       },
+
       {
         "id": 1,
         "name": "Fanny Vance"
       },
+
       {
         "id": 2,
         "name": "Dejesus Everett"
@@ -899,12 +979,13 @@
     "greeting": "Hello, Hatfield Larsen! You have 3 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bcefd3fbbd014fdd5ec",
     "index": 20,
     "guid": "1c02499b-8afd-496f-bcc5-f9965735480c",
     "isActive": true,
-    "balance": "$1,863.06",
+    "balance": "1,863.06",
     "picture": "http://placehold.it/32x32",
     "age": 30,
     "eyeColor": "blue",
@@ -928,14 +1009,17 @@
       "est"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Jillian Moran"
       },
+
       {
         "id": 1,
         "name": "Moreno Lowe"
       },
+
       {
         "id": 2,
         "name": "Charlotte Gonzalez"
@@ -944,12 +1028,13 @@
     "greeting": "Hello, Medina Middleton! You have 8 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bceaba23d09f896623f",
     "index": 21,
     "guid": "7db19fb4-1abc-469e-bebf-7a44ee374b57",
     "isActive": false,
-    "balance": "$3,040.95",
+    "balance": "3,040.95",
     "picture": "http://placehold.it/32x32",
     "age": 26,
     "eyeColor": "green",
@@ -973,14 +1058,17 @@
       "mollit"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Phelps Erickson"
       },
+
       {
         "id": 1,
         "name": "Carole Dean"
       },
+
       {
         "id": 2,
         "name": "Mullins Leon"
@@ -989,12 +1077,13 @@
     "greeting": "Hello, Powell Newman! You have 4 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bcee2c9a0fbc0288e65",
     "index": 22,
     "guid": "634c79a6-b900-461c-a547-634d16044127",
     "isActive": false,
-    "balance": "$2,254.44",
+    "balance": "2,254.44",
     "picture": "http://placehold.it/32x32",
     "age": 40,
     "eyeColor": "brown",
@@ -1018,14 +1107,17 @@
       "sit"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Nichole Cabrera"
       },
+
       {
         "id": 1,
         "name": "Fox Yates"
       },
+
       {
         "id": 2,
         "name": "Jessie Townsend"
@@ -1034,12 +1126,13 @@
     "greeting": "Hello, Ingrid Dillon! You have 8 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce4bae6b82c8c6bfdd",
     "index": 23,
     "guid": "0eaec891-744a-462b-bf8f-f32c24419081",
     "isActive": true,
-    "balance": "$3,641.33",
+    "balance": "3,641.33",
     "picture": "http://placehold.it/32x32",
     "age": 22,
     "eyeColor": "green",
@@ -1063,14 +1156,17 @@
       "incididunt"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Petra Chaney"
       },
+
       {
         "id": 1,
         "name": "Hogan Hobbs"
       },
+
       {
         "id": 2,
         "name": "Mcmillan Banks"
@@ -1079,12 +1175,13 @@
     "greeting": "Hello, Nettie Lane! You have 5 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bce5bdf3c0e528876df",
     "index": 24,
     "guid": "0dbf9d11-d714-458e-9321-a036db810f2b",
     "isActive": true,
-    "balance": "$1,850.75",
+    "balance": "1,850.75",
     "picture": "http://placehold.it/32x32",
     "age": 40,
     "eyeColor": "blue",
@@ -1108,14 +1205,17 @@
       "excepteur"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Hart Zimmerman"
       },
+
       {
         "id": 1,
         "name": "Brandi Woods"
       },
+
       {
         "id": 2,
         "name": "Robertson Hale"
@@ -1124,12 +1224,13 @@
     "greeting": "Hello, Torres Romero! You have 10 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce3bf7f6af36216c7b",
     "index": 25,
     "guid": "7be82f1d-531c-4f97-ba6d-1ef2119933e8",
     "isActive": false,
-    "balance": "$1,773.47",
+    "balance": "1,773.47",
     "picture": "http://placehold.it/32x32",
     "age": 33,
     "eyeColor": "brown",
@@ -1153,14 +1254,17 @@
       "occaecat"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Lessie Juarez"
       },
+
       {
         "id": 1,
         "name": "Guadalupe Cook"
       },
+
       {
         "id": 2,
         "name": "Stacy Ruiz"
@@ -1169,12 +1273,13 @@
     "greeting": "Hello, Nora Franco! You have 3 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bce22da842095094d6a",
     "index": 26,
     "guid": "0f7bcb8b-6231-4e08-8c5b-80de951fbee1",
     "isActive": true,
-    "balance": "$2,689.46",
+    "balance": "2,689.46",
     "picture": "http://placehold.it/32x32",
     "age": 21,
     "eyeColor": "green",
@@ -1198,14 +1303,17 @@
       "Lorem"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Ortiz Downs"
       },
+
       {
         "id": 1,
         "name": "Chen Wyatt"
       },
+
       {
         "id": 2,
         "name": "Andrea Holman"
@@ -1214,12 +1322,13 @@
     "greeting": "Hello, Tamara Booth! You have 3 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bcef1b2a3841f0dbb8b",
     "index": 27,
     "guid": "29a53b7f-8a3e-4c66-9e86-f4746180db80",
     "isActive": true,
-    "balance": "$3,279.11",
+    "balance": "3,279.11",
     "picture": "http://placehold.it/32x32",
     "age": 22,
     "eyeColor": "brown",
@@ -1243,14 +1352,17 @@
       "excepteur"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Wilder Prince"
       },
+
       {
         "id": 1,
         "name": "Margery Curry"
       },
+
       {
         "id": 2,
         "name": "Christy Brady"
@@ -1259,12 +1371,13 @@
     "greeting": "Hello, Cummings West! You have 6 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce513f54f6adfdeb4d",
     "index": 28,
     "guid": "488648be-e5c3-43b8-a865-ffec9ec5c45e",
     "isActive": true,
-    "balance": "$1,681.92",
+    "balance": "1,681.92",
     "picture": "http://placehold.it/32x32",
     "age": 32,
     "eyeColor": "green",
@@ -1288,14 +1401,17 @@
       "eiusmod"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Elva Palmer"
       },
+
       {
         "id": 1,
         "name": "David Sparks"
       },
+
       {
         "id": 2,
         "name": "Garrett Bowers"
@@ -1304,12 +1420,13 @@
     "greeting": "Hello, Whitehead Meyer! You have 8 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bcebad7175cf32fb857",
     "index": 29,
     "guid": "af30bd1b-91cf-426d-9af2-caf19852ad97",
     "isActive": false,
-    "balance": "$1,031.32",
+    "balance": "1,031.32",
     "picture": "http://placehold.it/32x32",
     "age": 21,
     "eyeColor": "green",
@@ -1333,14 +1450,17 @@
       "tempor"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Maureen Odom"
       },
+
       {
         "id": 1,
         "name": "Mooney Cleveland"
       },
+
       {
         "id": 2,
         "name": "Marsh Howard"
@@ -1349,12 +1469,13 @@
     "greeting": "Hello, Kimberley Barr! You have 5 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bce4bf86338cf0c3010",
     "index": 30,
     "guid": "4ea32765-89f6-4da6-be73-41fa51ac0ee2",
     "isActive": true,
-    "balance": "$3,343.55",
+    "balance": "3,343.55",
     "picture": "http://placehold.it/32x32",
     "age": 26,
     "eyeColor": "green",
@@ -1378,14 +1499,17 @@
       "minim"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Lawanda Fuentes"
       },
+
       {
         "id": 1,
         "name": "Ophelia Knowles"
       },
+
       {
         "id": 2,
         "name": "Leah Fernandez"
@@ -1394,12 +1518,13 @@
     "greeting": "Hello, Collins Robbins! You have 4 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce3201a461ef8d25ba",
     "index": 31,
     "guid": "2d769ef5-b42a-4971-ab43-5520cfa0bc21",
     "isActive": true,
-    "balance": "$3,809.39",
+    "balance": "3,809.39",
     "picture": "http://placehold.it/32x32",
     "age": 25,
     "eyeColor": "brown",
@@ -1423,14 +1548,17 @@
       "eu"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Mccall Pope"
       },
+
       {
         "id": 1,
         "name": "Hoffman Gilmore"
       },
+
       {
         "id": 2,
         "name": "Klein Mcdowell"
@@ -1439,12 +1567,13 @@
     "greeting": "Hello, Jeri Nelson! You have 1 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce9828cbbdf1d091b2",
     "index": 32,
     "guid": "99d1d9a0-8779-4c6b-ba05-cca79e5beb83",
     "isActive": false,
-    "balance": "$3,568.52",
+    "balance": "3,568.52",
     "picture": "http://placehold.it/32x32",
     "age": 20,
     "eyeColor": "blue",
@@ -1468,14 +1597,17 @@
       "incididunt"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Mclean Stevens"
       },
+
       {
         "id": 1,
         "name": "Esther Hawkins"
       },
+
       {
         "id": 2,
         "name": "Diann Lawson"
@@ -1484,12 +1616,13 @@
     "greeting": "Hello, Nina Tanner! You have 8 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce71a8ddc68e3ab166",
     "index": 33,
     "guid": "55997fbc-a9ed-4ad4-ab40-7718a65e57bc",
     "isActive": true,
-    "balance": "$2,144.87",
+    "balance": "2,144.87",
     "picture": "http://placehold.it/32x32",
     "age": 23,
     "eyeColor": "brown",
@@ -1513,14 +1646,17 @@
       "sunt"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Sweeney Kelly"
       },
+
       {
         "id": 1,
         "name": "Ochoa Rivera"
       },
+
       {
         "id": 2,
         "name": "Vazquez Michael"
@@ -1529,12 +1665,13 @@
     "greeting": "Hello, Anthony Higgins! You have 3 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bce721a8ab189cde75b",
     "index": 34,
     "guid": "298717ac-5efa-4e5b-ae8a-0691b724d784",
     "isActive": true,
-    "balance": "$3,481.91",
+    "balance": "3,481.91",
     "picture": "http://placehold.it/32x32",
     "age": 34,
     "eyeColor": "blue",
@@ -1558,14 +1695,17 @@
       "sunt"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Karin Ochoa"
       },
+
       {
         "id": 1,
         "name": "Henderson Webb"
       },
+
       {
         "id": 2,
         "name": "Brown Sexton"
@@ -1574,12 +1714,13 @@
     "greeting": "Hello, Reeves Bradshaw! You have 4 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce62b82f125076e2a5",
     "index": 35,
     "guid": "df8b7817-939e-406b-ae50-df8f5a18fffa",
     "isActive": true,
-    "balance": "$1,067.48",
+    "balance": "1,067.48",
     "picture": "http://placehold.it/32x32",
     "age": 27,
     "eyeColor": "blue",
@@ -1603,14 +1744,17 @@
       "officia"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Ferguson Hudson"
       },
+
       {
         "id": 1,
         "name": "Campos Todd"
       },
+
       {
         "id": 2,
         "name": "Bailey Cervantes"
@@ -1619,12 +1763,13 @@
     "greeting": "Hello, Holden Brennan! You have 9 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce2c4bcc0997864ae5",
     "index": 36,
     "guid": "aade5f55-801d-4302-8076-f78f3d145a2b",
     "isActive": true,
-    "balance": "$1,874.65",
+    "balance": "1,874.65",
     "picture": "http://placehold.it/32x32",
     "age": 31,
     "eyeColor": "blue",
@@ -1648,14 +1793,17 @@
       "amet"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Tameka Cummings"
       },
+
       {
         "id": 1,
         "name": "Jenifer Jennings"
       },
+
       {
         "id": 2,
         "name": "Gill Vaughan"
@@ -1664,12 +1812,13 @@
     "greeting": "Hello, Lola Malone! You have 8 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bce43793b1060fee888",
     "index": 37,
     "guid": "0b47b7c8-f15b-4ab7-8c14-26ab3c608528",
     "isActive": true,
-    "balance": "$1,422.92",
+    "balance": "1,422.92",
     "picture": "http://placehold.it/32x32",
     "age": 27,
     "eyeColor": "brown",
@@ -1693,14 +1842,17 @@
       "id"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Lindsay Chan"
       },
+
       {
         "id": 1,
         "name": "Craft Pugh"
       },
+
       {
         "id": 2,
         "name": "Tracey Galloway"
@@ -1709,12 +1861,13 @@
     "greeting": "Hello, Cochran Lindsay! You have 9 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bced8b1ba56c69a9e82",
     "index": 38,
     "guid": "a4476fcc-30df-4d73-b80d-5237f427a9b1",
     "isActive": true,
-    "balance": "$3,550.74",
+    "balance": "3,550.74",
     "picture": "http://placehold.it/32x32",
     "age": 20,
     "eyeColor": "green",
@@ -1738,14 +1891,17 @@
       "elit"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Sharron Horn"
       },
+
       {
         "id": 1,
         "name": "Lang Davenport"
       },
+
       {
         "id": 2,
         "name": "Addie Sanders"
@@ -1754,12 +1910,13 @@
     "greeting": "Hello, Phillips Weaver! You have 7 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce4f8ac2353a29eac9",
     "index": 39,
     "guid": "4924e8a0-bbb0-4ca2-b1df-19ceed0e4577",
     "isActive": true,
-    "balance": "$1,020.02",
+    "balance": "1,020.02",
     "picture": "http://placehold.it/32x32",
     "age": 26,
     "eyeColor": "blue",
@@ -1783,14 +1940,17 @@
       "proident"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Daisy Sears"
       },
+
       {
         "id": 1,
         "name": "Atkinson Shields"
       },
+
       {
         "id": 2,
         "name": "Eugenia Lynn"
@@ -1799,12 +1959,13 @@
     "greeting": "Hello, Ruth Mckee! You have 5 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bcef0e189d3580b0106",
     "index": 40,
     "guid": "72a6f342-a720-4caa-9b16-5975bced59d9",
     "isActive": true,
-    "balance": "$3,646.52",
+    "balance": "3,646.52",
     "picture": "http://placehold.it/32x32",
     "age": 29,
     "eyeColor": "green",
@@ -1828,14 +1989,17 @@
       "commodo"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Nash Riley"
       },
+
       {
         "id": 1,
         "name": "Sallie Wynn"
       },
+
       {
         "id": 2,
         "name": "Marva Wilkerson"
@@ -1844,12 +2008,13 @@
     "greeting": "Hello, Robbie Rice! You have 7 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce8e40a4e3c00d8f92",
     "index": 41,
     "guid": "9a44f3a6-87bb-4c6f-80d4-635c5428eb10",
     "isActive": false,
-    "balance": "$1,391.74",
+    "balance": "1,391.74",
     "picture": "http://placehold.it/32x32",
     "age": 25,
     "eyeColor": "brown",
@@ -1873,14 +2038,17 @@
       "est"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Tia Petersen"
       },
+
       {
         "id": 1,
         "name": "Savannah Pitts"
       },
+
       {
         "id": 2,
         "name": "Salas Hopper"
@@ -1889,12 +2057,13 @@
     "greeting": "Hello, Angelina Bentley! You have 2 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bcefead354603d8d6af",
     "index": 42,
     "guid": "689ce622-ad3a-47ac-a8dd-3f98360752f6",
     "isActive": false,
-    "balance": "$2,261.25",
+    "balance": "2,261.25",
     "picture": "http://placehold.it/32x32",
     "age": 25,
     "eyeColor": "green",
@@ -1918,14 +2087,17 @@
       "eu"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Annette Lindsey"
       },
+
       {
         "id": 1,
         "name": "Glenda Potter"
       },
+
       {
         "id": 2,
         "name": "Stephens Henderson"
@@ -1934,12 +2106,13 @@
     "greeting": "Hello, Melba Leonard! You have 1 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bce652c1d2414481a4f",
     "index": 43,
     "guid": "39284b2a-2d77-44d1-9dce-798b03292ea3",
     "isActive": true,
-    "balance": "$3,588.07",
+    "balance": "3,588.07",
     "picture": "http://placehold.it/32x32",
     "age": 28,
     "eyeColor": "brown",
@@ -1963,14 +2136,17 @@
       "sint"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Mia Francis"
       },
+
       {
         "id": 1,
         "name": "Alice Wilcox"
       },
+
       {
         "id": 2,
         "name": "Alston Flowers"
@@ -1979,12 +2155,13 @@
     "greeting": "Hello, Sarah Stafford! You have 6 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce922664858c466bfb",
     "index": 44,
     "guid": "4a0d015e-445d-4936-8f75-2c71f2102c7f",
     "isActive": true,
-    "balance": "$1,165.52",
+    "balance": "1,165.52",
     "picture": "http://placehold.it/32x32",
     "age": 25,
     "eyeColor": "blue",
@@ -2008,14 +2185,17 @@
       "tempor"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Reid Small"
       },
+
       {
         "id": 1,
         "name": "Mercado Pena"
       },
+
       {
         "id": 2,
         "name": "Jennifer Macias"
@@ -2024,12 +2204,13 @@
     "greeting": "Hello, Dixie Conner! You have 3 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce414e3102a4190b77",
     "index": 45,
     "guid": "790aa90f-6ff1-421c-a314-435690af9487",
     "isActive": false,
-    "balance": "$2,475.75",
+    "balance": "2,475.75",
     "picture": "http://placehold.it/32x32",
     "age": 28,
     "eyeColor": "blue",
@@ -2053,14 +2234,17 @@
       "deserunt"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Barrera Cole"
       },
+
       {
         "id": 1,
         "name": "Dunlap Contreras"
       },
+
       {
         "id": 2,
         "name": "Graciela Lyons"
@@ -2069,12 +2253,13 @@
     "greeting": "Hello, Grant Craig! You have 4 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce30e2458dd24772c6",
     "index": 46,
     "guid": "fbfb1f6b-6fbe-4296-87bb-dcbbb49d9c61",
     "isActive": true,
-    "balance": "$2,930.33",
+    "balance": "2,930.33",
     "picture": "http://placehold.it/32x32",
     "age": 28,
     "eyeColor": "green",
@@ -2098,14 +2283,17 @@
       "do"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Maria Orr"
       },
+
       {
         "id": 1,
         "name": "Livingston Luna"
       },
+
       {
         "id": 2,
         "name": "Talley Macdonald"
@@ -2114,12 +2302,13 @@
     "greeting": "Hello, Latasha Hatfield! You have 9 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce5fdf3a477e2f4a1f",
     "index": 47,
     "guid": "4bbe2c47-57c9-4b39-b9a0-427e57e16737",
     "isActive": false,
-    "balance": "$1,623.21",
+    "balance": "1,623.21",
     "picture": "http://placehold.it/32x32",
     "age": 40,
     "eyeColor": "blue",
@@ -2143,14 +2332,17 @@
       "qui"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Valerie Patrick"
       },
+
       {
         "id": 1,
         "name": "Davenport Hardin"
       },
+
       {
         "id": 2,
         "name": "Joyce Adkins"
@@ -2159,12 +2351,13 @@
     "greeting": "Hello, Renee Ramos! You have 10 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bce84d2cc3479ad3758",
     "index": 48,
     "guid": "3f875da0-7999-45c1-a319-5db5d2c38826",
     "isActive": false,
-    "balance": "$1,628.11",
+    "balance": "1,628.11",
     "picture": "http://placehold.it/32x32",
     "age": 30,
     "eyeColor": "brown",
@@ -2188,14 +2381,17 @@
       "in"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Walton Jimenez"
       },
+
       {
         "id": 1,
         "name": "Ollie Frederick"
       },
+
       {
         "id": 2,
         "name": "Barker Phillips"
@@ -2204,12 +2400,13 @@
     "greeting": "Hello, Susie Moss! You have 6 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bced3e1d2b903e38979",
     "index": 49,
     "guid": "60ebeefd-d31d-486c-a392-e6cdbee52a84",
     "isActive": false,
-    "balance": "$1,683.67",
+    "balance": "1,683.67",
     "picture": "http://placehold.it/32x32",
     "age": 28,
     "eyeColor": "blue",
@@ -2233,14 +2430,17 @@
       "deserunt"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Middleton Coffey"
       },
+
       {
         "id": 1,
         "name": "Mandy Hays"
       },
+
       {
         "id": 2,
         "name": "Benita Drake"
@@ -2249,12 +2449,13 @@
     "greeting": "Hello, French Compton! You have 3 unread messages.",
     "favoriteFruit": "strawberry"
   },
+
   {
     "_id": "65e51bce0b3eb8792249590f",
     "index": 50,
     "guid": "6d92de7e-f6b4-4f5e-9771-e9bf2f4265da",
     "isActive": true,
-    "balance": "$2,169.74",
+    "balance": "2,169.74",
     "picture": "http://placehold.it/32x32",
     "age": 36,
     "eyeColor": "brown",
@@ -2278,14 +2479,17 @@
       "ipsum"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Hardy Robles"
       },
+
       {
         "id": 1,
         "name": "Nolan Padilla"
       },
+
       {
         "id": 2,
         "name": "Summer Reyes"
@@ -2294,12 +2498,13 @@
     "greeting": "Hello, Hurley Fields! You have 4 unread messages.",
     "favoriteFruit": "apple"
   },
+
   {
     "_id": "65e51bcecda1ba7b1498a476",
     "index": 51,
     "guid": "4cef7e24-7897-475f-9611-fb525fd6f4ca",
     "isActive": true,
-    "balance": "$2,416.99",
+    "balance": "2,416.99",
     "picture": "http://placehold.it/32x32",
     "age": 37,
     "eyeColor": "green",
@@ -2323,14 +2528,17 @@
       "sunt"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Payne Boyd"
       },
+
       {
         "id": 1,
         "name": "Goodwin Craft"
       },
+
       {
         "id": 2,
         "name": "Nell Bartlett"
@@ -2339,12 +2547,13 @@
     "greeting": "Hello, Odessa Mendoza! You have 10 unread messages.",
     "favoriteFruit": "banana"
   },
+
   {
     "_id": "65e51bcec5b734cd67166279",
     "index": 52,
     "guid": "f4f318a2-edf9-4655-ac7d-aa723fd8341d",
     "isActive": false,
-    "balance": "$2,651.44",
+    "balance": "2,651.44",
     "picture": "http://placehold.it/32x32",
     "age": 31,
     "eyeColor": "brown",
@@ -2368,14 +2577,17 @@
       "magna"
     ],
     "friends": [
+
       {
         "id": 0,
         "name": "Schneider Silva"
       },
+
       {
         "id": 1,
         "name": "Beatrice Good"
       },
+
       {
         "id": 2,
         "name": "Perkins Sargent"
